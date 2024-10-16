@@ -5,6 +5,8 @@
 - model: classification(범주형 데이터), regression(연속형 데이터)
 
 - conceptual Q: overfitting, 코드의 이유
+- https://www.timeseriesclassification.com/dataset.php?train=&test=&leng=&class=&type==%27device%27
+- 여기에 테스트 데이터로 써볼만한 데이터 있음
 
 # 중간고사 이후
 <개인 프로젝트>
